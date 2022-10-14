@@ -8,3 +8,5 @@ def FlaskTut(job):                       # function to be run when any user visi
     return render_template("index.html", name1 = name, profession = str(job))
 
 myapp.run(debug=True)                    # run on local host # auto Update
+
+                                         # Running on http://127.0.0.1:5000/student
