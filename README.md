@@ -22,9 +22,16 @@ Static folder VS templates folder :
 
 # Jinja 
 
+[Details](https://jinja.palletsprojects.com/en/3.0.x/)
+
 Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax.
 
 ![1200px-Jinja_software_logo svg](https://user-images.githubusercontent.com/33677647/195970924-91270435-21e0-46b4-8302-fb670a279b16.png)
+
+**What is Bootstrap used for?** <br />
+Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs.
+
+![bootstrap-1](https://user-images.githubusercontent.com/33677647/195992763-21724663-4e38-46b4-809b-c578f9e26600.jpg)
 
 **What is Jinja template in Flask?** <br />
 Flask uses templates to expand the functionality of a web application while maintaining a simple and organized file structure. Templates are enabled using the Jinja2 template engine and allow data to be shared and processed before being turned in to content and sent back to the client.
