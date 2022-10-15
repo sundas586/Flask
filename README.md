@@ -20,6 +20,32 @@ Static folder VS templates folder :
 - Static folder contents are public by default
 - Template folder is private by default
 
+# Jinja 
+
+Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax.
+
+![1200px-Jinja_software_logo svg](https://user-images.githubusercontent.com/33677647/195970924-91270435-21e0-46b4-8302-fb670a279b16.png)
+
+**What is Jinja template in Flask?** <br />
+Flask uses templates to expand the functionality of a web application while maintaining a simple and organized file structure. Templates are enabled using the Jinja2 template engine and allow data to be shared and processed before being turned in to content and sent back to the client.
+
+**How do I write a Jinja template?** <br />
+Image result for jinja template flask
+In this tutorial, you'll learn how to:
+Install the Jinja template engine.
+Create your first Jinja template.
+Render a Jinja template in Flask.
+Use for loops and conditional statements with Jinja.
+Nest Jinja templates.
+Modify variables in Jinja with filters.
+Use macros to add functionality to your front end.
+
+![7c869580-6e2d-11ea-8866-ada9ae0ad111](https://user-images.githubusercontent.com/33677647/195971369-ff1507da-4a0f-4a25-b0c4-3fa2a553ffef.png)
+
+![jinja1](https://user-images.githubusercontent.com/33677647/195971361-c5408bd4-0e92-4540-9c48-0afd892f5220.png)
+
+**Jinja's philosophy** is that while application logic belongs in Python if possible, it shouldn't make the template designer's job difficult by restricting functionality too much.
+
 
 
 
