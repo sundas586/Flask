@@ -52,7 +52,9 @@ Use macros to add functionality to your front end.
 
 ![jinja1](https://user-images.githubusercontent.com/33677647/195971361-c5408bd4-0e92-4540-9c48-0afd892f5220.png)
 
-**Jinja's philosophy** is that while application logic belongs in Python if possible, it shouldn't make the template designer's job difficult by restricting functionality too much.
+**Jinja's templating is that while application logic belongs in Python if possible, it shouldn't make the template designer's job difficult by restricting functionality too much.
+**OR**
+Jinja's templating helps to use python code in templates
 
 
 
