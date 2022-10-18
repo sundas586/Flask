@@ -23,6 +23,7 @@ Static folder VS templates folder :
 # Jinja 
 
 [Web](jinja.pocoo.com)<br />
+
 ![download](https://user-images.githubusercontent.com/33677647/196422973-f9ba4948-8b9f-44c7-b4ee-7caddb8bcca6.jpg)
 
 [Details](https://jinja.palletsprojects.com/en/3.0.x/)
